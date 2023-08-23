@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.lmsp  diff=flipper
+*.llsp  diff=flipper
+*.llsp3 diff=flipper
